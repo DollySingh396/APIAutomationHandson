@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"APIChaining","l":"createUser"},{"p":"APIChaining","l":"deleteUser"},{"p":"APIChaining","l":"getUser"},{"p":"APIChaining","l":"updateUser"}];updateSearchResults();

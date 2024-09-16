@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    to generate report adding listener that will listen to the events
+
+    <test verbose="2" preserve-order="true" name="/Users/dolly.singh/RestAssuredProject/APIAUtomationHansOn/src/test/java/APIChaining">
+        <classes>
+            <class name="APIChaining.createUser"/>
+            <class name="APIChaining.getUser"/>
+            <class name="APIChaining.updateUser"/>
+            <class name="APIChaining.deleteUser"/>
+
+        </classes>
+    </test>
+</suite>

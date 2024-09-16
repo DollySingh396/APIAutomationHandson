@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"APIChaining","c":"createUser","l":"createUser()","u":"%3Cinit%3E()"},{"p":"APIChaining","c":"deleteUser","l":"deleteUser()","u":"%3Cinit%3E()"},{"p":"APIChaining","c":"getUser","l":"getUser()","u":"%3Cinit%3E()"},{"p":"APIChaining","c":"updateUser","l":"updateUser()","u":"%3Cinit%3E()"}];updateSearchResults();
